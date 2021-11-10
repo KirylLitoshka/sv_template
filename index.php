@@ -1,179 +1,178 @@
 <?php
 include "title.php";
-?> 
+?>
 
 <?php
 include "header.php";
-?> 
+?>
 
 <?php
 include "menu_top.php";
-?>	
+?>
 
 <?php
 // include "menu_left.php";
-?>	
- 
+?>
+
 
 <?php
 include "menu_right.php";
-?>	
+?>
 
 
 
-<div class="index"> 
-   
+<div class="index">
 
-<p>
- <!-- <img src="img/vibory2019.jpg" width="710"> -->
-  <!-- <img src="img/vibory2019+.jpg" width="710"> -->
-<p>
-  <!-- <a href="http://svetlogorsk.by/posts/2019/september/den-goroda/"><img src="img/dengoroda2019.jpg" width="710" height="140"></a> -->
 
-<!-- --------------------------------------------------------------------------------------- -->
+	<p>
+		<!-- <img src="img/vibory2019.jpg" width="710"> -->
+		<!-- <img src="img/vibory2019+.jpg" width="710"> -->
+	<p>
+		<!-- <a href="http://svetlogorsk.by/posts/2019/september/den-goroda/"><img src="img/dengoroda2019.jpg" width="710" height="140"></a> -->
 
-<!-- <img src="img/2018-08-30-1/1.jpg"> картинка светочь -->
+		<!-- --------------------------------------------------------------------------------------- -->
 
-<!-- --------------------------------------------------------------------------------------- -->
-<p><br>
+		<!-- <img src="img/2018-08-30-1/1.jpg"> картинка светочь -->
 
-<div class="index_block">
-	<div class="index_block_foto">
-        <a href="news2021-11-05.php"><img src="img/news08.12.16.jpg">
-    </div>
-	<div class="index_block_text">
-		<p> <span class="data"> <b> 5 ноября 2021 </b></span>
-		<h1>
-		    <a href="news2021-11-05.php">
-		        Проект новой Конституции Беларуси представили Александру Лукашенко
-		    </a>
-		</h1>
-		<h2>
-		   На заседании с рабочей группой по доработке проекта Конституции Александр Лукашенко рассказал, что ему уже представили новый вариант главного документа страны.
-		</h2>
+		<!-- --------------------------------------------------------------------------------------- -->
+	<p><br>
+
+	<div class="index_block">
+		<div class="index_block_foto">
+			<a href="news/2021/11/05/index.php"><img src="src/img/logo/prof_federation.jpg">
+		</div>
+		<div class="index_block_text">
+			<p> <span class="data"> <b> 5 ноября 2021 </b></span>
+			<h1>
+				<a href="news/2021/11/05/index.php">
+					Проект новой Конституции Беларуси представили Александру Лукашенко
+				</a>
+			</h1>
+			<h2>
+				На заседании с рабочей группой по доработке проекта Конституции Александр Лукашенко рассказал, что ему уже представили новый вариант главного документа страны.
+			</h2>
+		</div>
 	</div>
-</div>
 
-<hr>
+	<hr>
 
-<div class="index_block">
-	<div class="index_block_foto">
-        <a href="news2021-11-03.php"><img src="img/news2021-03-29/mcs.jpg">
-    </div>
-	<div class="index_block_text">
-		<p> <span class="data"> <b> 3 ноября 2021 </b></span>
-		<h1>
-		    <a href="news2021-11-03.php">
-		        МЧС запускает новую информационную кампанию «Безопасная старость»
-		    </a>
-		</h1>
-		<h2>
-		   50% от общего числа погибших на пожарах — люди старше 60 лет. К сожалению, в силу своих возрастных и физических особенностей риск оказаться в центре огненной стихии у них гораздо выше, чем у представителей других категорий. 
-		</h2>
+	<div class="index_block">
+		<div class="index_block_foto">
+			<a href="news/2021/11/03/index.php"><img src="src/img/logo/mcs.jpg">
+		</div>
+		<div class="index_block_text">
+			<p> <span class="data"> <b> 3 ноября 2021 </b></span>
+			<h1>
+				<a href="news/2021/11/03/index.php">
+					МЧС запускает новую информационную кампанию «Безопасная старость»
+				</a>
+			</h1>
+			<h2>
+				50% от общего числа погибших на пожарах — люди старше 60 лет. К сожалению, в силу своих возрастных и физических особенностей риск оказаться в центре огненной стихии у них гораздо выше, чем у представителей других категорий.
+			</h2>
+		</div>
 	</div>
-</div>
 
-<hr>
+	<hr>
 
-<div class="index_block">
-	<div class="index_block_foto">
-        <a href="news2021-11-02.php"><img src="img/news2021-03-29/mcs.jpg">
-    </div>
-	<div class="index_block_text">
-		<p> <span class="data"> <b> 2 ноября 2021 </b></span>
-		<h1>
-		    <a href="news2021-11-02.php">
-		        Информация о проведении комплексной проверки автоматизированной системы
-		    </a>
-		</h1>
-		<h2>
-		   Светлогорский районный отдел по чрезвычайным ситуациям информирует: в период с 02 по 04 ноября 2021 года на территории Светлогорского района будет проводиться комплексная проверка автоматизированной системы
-		</h2>
+	<div class="index_block">
+		<div class="index_block_foto">
+			<a href="news/2021/11/02/index.php"><img src="src/img/logo/mcs.jpg">
+		</div>
+		<div class="index_block_text">
+			<p> <span class="data"> <b> 2 ноября 2021 </b></span>
+			<h1>
+				<a href="news/2021/11/02/index.php">
+					Информация о проведении комплексной проверки автоматизированной системы
+				</a>
+			</h1>
+			<h2>
+				Светлогорский районный отдел по чрезвычайным ситуациям информирует: в период с 02 по 04 ноября 2021 года на территории Светлогорского района будет проводиться комплексная проверка автоматизированной системы
+			</h2>
+		</div>
 	</div>
-</div>
 
-<hr>
+	<hr>
 
-<div class="index_block">
-	<div class="index_block_foto">
-        <a href="news2021-11-01.php"><img src="img/news2021-03-29/mcs.jpg">
-    </div>
-	<div class="index_block_text">
-		<p> <span class="data"> <b> 1 ноября 2021 </b></span>
-		<h1>
-		    <a href="news2021-11-01.php">
-		        Анонс акции «Не прожигай свою жизнь!»
-		    </a>
-		</h1>
-		<h2>
-		   Для того чтобы привлечь внимание к проблеме пожаров и гибели людей из-за неосторожного обращения с огнем при курении, с 1 по 30 ноября на Светлогорщине пройдет акция «Не прожигай свою жизнь!».
-		</h2>
+	<div class="index_block">
+		<div class="index_block_foto">
+			<a href="news/2021/11/01/index.php"><img src="src/img/logo/mcs.jpg">
+		</div>
+		<div class="index_block_text">
+			<p> <span class="data"> <b> 1 ноября 2021 </b></span>
+			<h1>
+				<a href="news/2021/11/01/index.php">
+					Анонс акции «Не прожигай свою жизнь!»
+				</a>
+			</h1>
+			<h2>
+				Для того чтобы привлечь внимание к проблеме пожаров и гибели людей из-за неосторожного обращения с огнем при курении, с 1 по 30 ноября на Светлогорщине пройдет акция «Не прожигай свою жизнь!».
+			</h2>
+		</div>
 	</div>
-</div>
 
-<hr>
+	<hr>
 
-<div class="index_block">
-	<div class="index_block_foto">
-        <a href="news2021-10-29.php"><img src="img/news2021-02-18/svetoch.png">
-    </div>
-	<div class="index_block_text">
-		<p> <span class="data"> <b> 29 октября 2021 </b></span>
-		<h1>
-		    <a href="news2021-10-29.php">
-		        Акция «Беларусь – энергоэффективная страна»
-		    </a>
-		</h1>
-		<h2>
-		   В связи с проведением 11 ноября 2021 года международного Дня энергосбережения, Департаментом по энергоэффективности инициируется проведение в период с 8 по 12 ноября 2021 г. республиканской информационно-образовательной акции...
-		</h2>
+	<div class="index_block">
+		<div class="index_block_foto">
+			<a href="news/2021/10/29/index.php"><img src="src/img/logo/mcs.jpg">
+		</div>
+		<div class="index_block_text">
+			<p> <span class="data"> <b> 29 октября 2021 </b></span>
+			<h1>
+				<a href="news/2021/10/29/index.php">
+					Акция «Беларусь – энергоэффективная страна»
+				</a>
+			</h1>
+			<h2>
+				В связи с проведением 11 ноября 2021 года международного Дня энергосбережения, Департаментом по энергоэффективности инициируется проведение в период с 8 по 12 ноября 2021 г. республиканской информационно-образовательной акции...
+			</h2>
+		</div>
 	</div>
-</div>
 
-<hr>
+	<hr>
 
-<div class="index_block">
-	<div class="index_block_foto">
-        <a href="news2021-10-28.php"><img src="img/news2020-12-28/gospromnadzor.png">
-    </div>
-	<div class="index_block_text">
-		<p> <span class="data"> <b> 28 октября 2021 </b></span>
-		<h1>
-		    <a href="news2021-10-28.php">
-		        Памятка по порядку организации производственного контроля за объектами газораспределительной системы.
+	<div class="index_block">
+		<div class="index_block_foto">
+			<a href="news/2021/10/28/index.php"><img src="src/img/logo/gospromnadzor.jpg">
+		</div>
+		<div class="index_block_text">
+			<p> <span class="data"> <b> 28 октября 2021 </b></span>
+			<h1>
+				<a href="news/2021/10/28/index.php">
+					Памятка по порядку организации производственного контроля за объектами газораспределительной системы.
+				</a>
+			</h1>
+			<h2>
 
-		    </a>
-		</h1>
-		<h2>
-		   
-		</h2>
+			</h2>
+		</div>
 	</div>
-</div>
 
-<hr>
+	<hr>
 
-<div class="index_block">
-	<div class="index_block_foto">
-        <a href="news2021-09-27.php"><img src="img/news2021-02-18/svetoch.png">
-    </div>
-	<div class="index_block_text">
-		<p> <span class="data"> <b> 27 сентября 2021 </b></span>
-		<h1>
-		    <a href="news2021-09-27.php">
-		        Информация о проведении Международной конференции 
-                «Влияние глобальных экономических вызовов на социально-трудовые права человека» (2021 год)
+	<div class="index_block">
+		<div class="index_block_foto">
+			<a href="news2021-09-27.php"><img src="img/news2021-02-18/svetoch.png">
+		</div>
+		<div class="index_block_text">
+			<p> <span class="data"> <b> 27 сентября 2021 </b></span>
+			<h1>
+				<a href="news2021-09-27.php">
+					Информация о проведении Международной конференции
+					«Влияние глобальных экономических вызовов на социально-трудовые права человека» (2021 год)
 
-		    </a>
-		</h1>
-		<h2>
-		   
-		</h2>
+				</a>
+			</h1>
+			<h2>
+
+			</h2>
+		</div>
 	</div>
-</div>
 
-<hr>
+	<hr>
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-09-13.php"><img src="img/news2021-09-13/001.jpg">
     </div>
@@ -226,7 +225,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-08-17.php"><img src="img/news2021-02-18/svetoch.png">
     </div>
@@ -245,7 +244,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-08-10.php"><img src="img/news2021-02-18/svetoch.png">
     </div>
@@ -264,7 +263,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-07-19_3.php"><img src="img/news2021-02-18/svetoch.png">
     </div>
@@ -283,7 +282,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-07-19_2.php"><img src="img/news2021-02-18/svetoch.png">
     </div>
@@ -302,7 +301,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-07-19_1.php"><img src="img/news2021-02-18/svetoch.png">
     </div>
@@ -323,7 +322,7 @@ include "menu_right.php";
 
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-07-16.php"><img src="img/news2021-03-16/vakcina.jpg">
     </div>
@@ -340,7 +339,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-07-15.php"><img src="img/news2021-02-18/svetoch.png">
     </div>
@@ -359,7 +358,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-07-14.php"><img src="img/news2021-07-14/preview.jpg">
     </div>
@@ -378,7 +377,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-07-13.php"><img src="img/news2021-02-18/svetoch.png">
     </div>
@@ -393,7 +392,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-07-12.php"><img src="img/news2020-11-10/address.jpg">
     </div>
@@ -408,7 +407,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-06-23.php"><img src="img/news2021-02-18/svetoch.png">
     </div>
@@ -483,7 +482,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-05-19.php"><img src="img/news2020-11-10/address.jpg">
     </div>
@@ -517,7 +516,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-05-04.php"><img src="img/news2021-03-29/mcs.jpg">
     </div>
@@ -534,7 +533,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-04-30.php"><img src="img/news2021-02-18/svetoch.png">
     </div>
@@ -553,7 +552,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-04-29.php"><img src="img/news2021-02-18/svetoch.png">
     </div>
@@ -572,7 +571,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-04-26.php"><img src="img/news2021-04-26/1.jpg">
     </div>
@@ -591,7 +590,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-04-14.php"><img src="img/news2021-03-29/mcs.jpg">
     </div>
@@ -608,7 +607,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-04-08.php"><img src="img/news2021-04-08/5.jpg">
     </div>
@@ -627,7 +626,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-04-07.php"><img src="img/news2021-04-07/3.jpg">
     </div>
@@ -644,7 +643,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-03-29.php"><img src="img/news2021-03-29/mcs.jpg">
     </div>
@@ -661,7 +660,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-03-25.php"><img src="img/news2021-03-25/chu.jpg">
     </div>
@@ -678,7 +677,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-03-23.php"><img src="img/news2020-12-28/gospromnadzor.png">
     </div>
@@ -695,7 +694,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-03-18.php"><img src="https://gkx.by/images/20.02.18/1/2.JPG">
     </div>
@@ -729,7 +728,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-03-09.php"><img src="img/news2021-03-09/uvd2.jpg" alt='Uvd'>
     </div>
@@ -746,7 +745,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-03-05.php"><img src="img/news2021-03-05/8marta.jpg" alt="Image">
     </div>
@@ -761,7 +760,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-03-04.php"><img src="img/news2020-11-10/address.jpg">
     </div>
@@ -793,7 +792,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
 		<a href="news2021-02-24_02.php"><img src="img/news2020-12-08/1.jpg">
 	</div>
@@ -812,7 +811,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-02-24.php"><img src="img/news2021-02-24/mvd.jpg">
     </div>
@@ -829,7 +828,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-02-23.php"><img src="img/news2020-11-10/address.jpg">
     </div>
@@ -844,7 +843,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-02-22.php"><img src="img/news2020-12-28/gospromnadzor.png">
     </div>
@@ -861,7 +860,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-02-19.php"><img src="img/news2021-02-19/mart.jpg">
     </div>
@@ -880,7 +879,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-02-18.php"><img src="img/news2021-02-18/svetoch.png" alt="Image">
     </div>
@@ -895,7 +894,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-02-15.php"><img src="img/news2020-12-28/gospromnadzor.png">
     </div>
@@ -915,7 +914,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-02-12.php"><img src="img/news2021-02-12/lopata.jpg">
     </div>
@@ -932,7 +931,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-02-11.php"><img src="img/news2021-02-11/gai2.jpg">
 	</div>
@@ -950,7 +949,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-01-28.php"><img src="img/news2021-01-28/ploti_naloh_auto.jpg" alt="Image">
     </div>
@@ -965,7 +964,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-01-27.php"><img src="img/news2021-01-26/imns.jpg" alt="Image">
     </div>
@@ -980,7 +979,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-01-26.php"><img src="img/news2021-01-26/imns.jpg" alt="Image">
     </div>
@@ -995,7 +994,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-01-22.php"><img src="img/news2021-01-22/sobranie.png">
     </div>
@@ -1010,7 +1009,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-01-21.php"><img src="img/news2021-01-21/led.jpg">
     </div>
@@ -1027,7 +1026,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-01-06.php"><img src="img/news2020-11-10/address.jpg">
     </div>
@@ -1042,7 +1041,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-01-05_2.php"><img src="img/news2021-01-05/mvd.jpg">
     </div>
@@ -1055,7 +1054,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2021-01-05.php"><img src="img/news2021-01-05/sk.jpg">
     </div>
@@ -1068,7 +1067,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2020-12-28.php"><img src="img/news2020-12-28/gospromnadzor.png">
     </div>
@@ -1085,7 +1084,7 @@ include "menu_right.php";
     
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2020-08-28.php"><img src="img/news2020-06-18/0.jpg">
     </div>
@@ -1098,9 +1097,9 @@ include "menu_right.php";
 	</div>
 </div> 
     
-<hr>  -->  
-    
-<!-- <div class="index_block">
+<hr>  -->
+
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
         <a href="news2020-12-18.php"><img src="img/news2020-12-18/gai.jpg">
 	</div>
@@ -1116,7 +1115,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 	<div class="index_block_foto">
 		<a href="news2020-12-08.php"><img src="img/news2020-12-08/1.jpg">
 	</div>
@@ -1132,7 +1131,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-08-28.php"><img src="img/news2020-06-18/0.jpg">
@@ -1151,7 +1150,7 @@ include "menu_right.php";
     </div> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
             	<a href="news2020-09-24.php"><img src="img/news2020-09-24/img.jpg">
 			
@@ -1170,7 +1169,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-09-14.php"><img src="img/news2020-09-14/0.jpg">
@@ -1190,7 +1189,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-09-11.php"><img src="img/news2020-09-11/edp.jpg">
@@ -1209,7 +1208,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-08-19.php"><img src="img/news2020-08-19/0.jpg">
@@ -1229,7 +1228,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-08-18.php"><img src="img/news2020-08-18/1.jpg">
@@ -1250,7 +1249,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-08-12.php"><img src="img/news2020-03-25/0.jpg">
@@ -1269,7 +1268,7 @@ include "menu_right.php";
     </div>
 
 <hr> -->
-<!-- 
+	<!-- 
 <div class="index_block">
 		<div class="index_block_foto">
 
@@ -1290,7 +1289,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-08-03.php"><img src="img/news2020-08-03/0.jpg">
@@ -1311,7 +1310,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-07-29.php"><img src="img/news2020-07-29/0.jpg">
@@ -1331,7 +1330,7 @@ include "menu_right.php";
 
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-07-14.php"><img src="img/news2020-07-14/0.jpg">
@@ -1351,7 +1350,7 @@ include "menu_right.php";
 
 <hr>
  -->
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-06-13.php"><img src="img/news2020-03-25/0.jpg">
@@ -1371,7 +1370,7 @@ include "menu_right.php";
 
 <hr>
  -->
-<!-- 
+	<!-- 
 <div class="index_block">
 		<div class="index_block_foto">
 
@@ -1393,7 +1392,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-06-17.php"><img src="img/news2020-03-25/0.jpg">
@@ -1412,7 +1411,7 @@ include "menu_right.php";
     </div> -->
 
 
-<!-- <hr> 
+	<!-- <hr> 
 
 
 	<div class="index_block">
@@ -1435,7 +1434,7 @@ include "menu_right.php";
 
 
 
-<!-- <hr>
+	<!-- <hr>
 
 
 <div class="index_block">
@@ -1456,8 +1455,8 @@ include "menu_right.php";
     </div>
 <hr> 
  -->
-	
-<!-- <div class="index_block">
+
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-05-12.php"><img src="img/news2020-05-12/0.jpg">
@@ -1476,7 +1475,7 @@ include "menu_right.php";
 <hr>  -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-05-04.php"><img src="img/news2020-05-04/0.jpg">
@@ -1494,7 +1493,7 @@ include "menu_right.php";
     </div>
 <hr> 
  -->
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-04-24.php"><img src="img/news2020-04-24/0.jpg">
@@ -1515,7 +1514,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-04-15.php"><img src="img/news2020-04-15/0.jpg">
@@ -1531,11 +1530,11 @@ include "menu_right.php";
 		 		 			
 		</div>
     </div> -->
-<!-- <hr> -->
+	<!-- <hr> -->
 
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-04-08.php"><img src="img/news2020-04-08/0.jpg">
@@ -1554,7 +1553,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-04-07.php"><img src="img/news2020-04-07/0.jpg">
@@ -1573,7 +1572,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-03-26-1.php"><img src="img/news2020-03-26-1/0.jpg">
@@ -1592,7 +1591,7 @@ include "menu_right.php";
 <hr>  -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-03-26.php"><img src="img/news2020-03-26/0.jpg">
@@ -1611,7 +1610,7 @@ include "menu_right.php";
 <hr>  -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-03-25-1.php"><img src="img/news2020-03-25-1/0.jpg">
@@ -1629,7 +1628,7 @@ include "menu_right.php";
     </div>
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-03-25.php"><img src="img/news2020-03-25/0.jpg">
@@ -1650,7 +1649,7 @@ include "menu_right.php";
 
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-03-24.php"><img src="img/news2020-03-24/0.jpg">
@@ -1669,7 +1668,7 @@ include "menu_right.php";
     </div>
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-03-19.php"><img src="img/news2020-03-19/0.jpg">
@@ -1689,7 +1688,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-03-17.php"><img src="img/news2020-03-17/0.jpg">
@@ -1709,7 +1708,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-03-16.php"><img src="img/news2020-03-16/0.jpg">
@@ -1729,7 +1728,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-03-09.php"><img src="img/news2020-03-09/0.jpg">
@@ -1749,7 +1748,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-02-19.php"><img src="img/news2020-02-19/0.jpg">
@@ -1769,7 +1768,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-02-17.php"><img src="img/news2020-02-17/0.jpg">
@@ -1789,7 +1788,7 @@ include "menu_right.php";
 <hr>
  -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-02-06.php"><img src="img/news2020-02-06/0.jpg">
@@ -1808,7 +1807,7 @@ include "menu_right.php";
 <hr>
  -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-02-04.php"><img src="img/news2020-02-04/0.jpg">
@@ -1827,7 +1826,7 @@ include "menu_right.php";
 <hr>
  -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-01-30.php"><img src="img/news2020-01-30/0.jpg">
@@ -1846,7 +1845,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-01-29.php"><img src="img/news2020-01-29/0.jpg">
@@ -1865,7 +1864,7 @@ include "menu_right.php";
 <hr>
  -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-01-28.php"><img src="img/news2020-01-28/0.jpg">
@@ -1884,7 +1883,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-01-15-1.php"><img src="img/2020-01-15-1/0.jpg">
@@ -1903,7 +1902,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2020-01-15.php"><img src="img/2020-01-15/0.jpg">
@@ -1922,7 +1921,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-12-16-1.php"><img src="img/2019-12-16-1/0.jpg">
@@ -1942,7 +1941,7 @@ include "menu_right.php";
 
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-12-16.php"><img src="img/2019-12-16/0.jpg">
@@ -1962,7 +1961,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- 
+	<!-- 
 <div class="index_block">
 		<div class="index_block_foto">
 
@@ -1982,7 +1981,7 @@ include "menu_right.php";
     </div>
 <hr>
  -->
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-10-29-1.php"><img src="img/2019-10-29-1/0.jpg">
@@ -2002,7 +2001,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-10-29.php"><img src="img/2019-10-29/0.jpg">
@@ -2022,7 +2021,7 @@ include "menu_right.php";
 <hr>
  -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-10-16.php"><img src="img/2019-10-16/0.jpg">
@@ -2042,7 +2041,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-09-24.php"><img src="img/2019-09-24/0.jpg">
@@ -2061,7 +2060,7 @@ include "menu_right.php";
 <hr>
  -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-09-23.php"><img src="img/2019-09-23/0.jpg">
@@ -2080,7 +2079,7 @@ include "menu_right.php";
 <hr>
  -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-09-18.php"><img src="img/2019-09-18/0.jpg">
@@ -2098,7 +2097,7 @@ include "menu_right.php";
     </div>
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-09-16.php"><img src="img/2019-09-16/0.jpg">
@@ -2117,7 +2116,7 @@ include "menu_right.php";
 <hr>
  -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-09-10.php"><img src="img/2019-09-10/0.jpg">
@@ -2135,7 +2134,7 @@ include "menu_right.php";
     </div>
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-09-02.php"><img src="img/2019-09-02/0.jpg">
@@ -2153,7 +2152,7 @@ include "menu_right.php";
     </div>
 <hr>
  -->
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-08-30.php"><img src="img/2019-08-30/0.jpg">
@@ -2172,7 +2171,7 @@ include "menu_right.php";
     </div>
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-08-24.php"><img src="img/2019-08-24/0.jpg">
@@ -2191,7 +2190,7 @@ include "menu_right.php";
 <hr>
  -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-08-23.php"><img src="img/2019-08-23/0.jpg">
@@ -2209,7 +2208,7 @@ include "menu_right.php";
     </div>
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-08-19.php"><img src="img/2019-08-19/0.jpg">
@@ -2228,7 +2227,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-08-16.php"><img src="img/2019-08-16/0.jpg">
@@ -2247,7 +2246,7 @@ include "menu_right.php";
     </div>
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-08-12.php"><img src="img/2019-08-12/0.jpg">
@@ -2266,7 +2265,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-08-08.php"><img src="img/2019-08-08/0.jpg">
@@ -2285,7 +2284,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-08-06.php"><img src="img/2019-08-06/0.jpg">
@@ -2303,7 +2302,7 @@ include "menu_right.php";
     </div>
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-07-29.php"><img src="img/2019-07-29/0.jpg">
@@ -2322,7 +2321,7 @@ include "menu_right.php";
 <hr>
  -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-07-25.php"><img src="img/2018-08-30-1/1.jpg">
@@ -2341,7 +2340,7 @@ include "menu_right.php";
 <hr>
  -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-07-23.php"><img src="img/2019-07-23/0.jpg">
@@ -2360,7 +2359,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-07-17.php"><img src="img/2019-07-17/0.jpg">
@@ -2380,7 +2379,7 @@ include "menu_right.php";
  -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-07-01.php"><img src="img/2019-07-01/0.jpg">
@@ -2399,7 +2398,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- 
+	<!-- 
 <div class="index_block">
 		<div class="index_block_foto">
 
@@ -2419,7 +2418,7 @@ include "menu_right.php";
 <hr>
  -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-06-26.php"><img src="img/2019-06-26/0.jpg">
@@ -2438,7 +2437,7 @@ include "menu_right.php";
 <hr>
  -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-06-24.php"><img src="img/2019-06-24/0.jpg">
@@ -2457,7 +2456,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-06-13.php"><img src="img/2019-06-13/0.jpg">
@@ -2476,7 +2475,7 @@ include "menu_right.php";
 <hr>
  -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-05-30.php"><img src="img/2019-05-30/0.jpg">
@@ -2495,7 +2494,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-05-21.php"><img src="img/2019-05-21/0.jpg">
@@ -2513,7 +2512,7 @@ include "menu_right.php";
     </div>
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-05-20.php"><img src="img/2018-08-30-1/1.jpg">
@@ -2532,7 +2531,7 @@ include "menu_right.php";
 <hr>
  -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-05-04.php"><img src="img/2019-05-04/01.jpg"> </a>
@@ -2551,7 +2550,7 @@ include "menu_right.php";
     </div>
 <hr> -->
 
-<!-- 
+	<!-- 
 <div class="index_block">
 		<div class="index_block_foto">
 
@@ -2571,7 +2570,7 @@ include "menu_right.php";
 		</div>
     </div>
 <hr> -->
-<!-- 
+	<!-- 
 <div class="index_block">
 		<div class="index_block_foto">
 
@@ -2591,7 +2590,7 @@ include "menu_right.php";
     </div>
 <hr>
  -->
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-04-24.php"><img src="img/2019-04-24/0.jpg"> </a>
@@ -2610,7 +2609,7 @@ include "menu_right.php";
     </div>
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-04-23.php"><img src="img/2019-04-23/0.jpg"> </a>
@@ -2629,7 +2628,7 @@ include "menu_right.php";
     </div>
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-03-18.php"><img src="img/2019-03-18/0.jpg"> </a>
@@ -2647,7 +2646,7 @@ include "menu_right.php";
     </div>
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-03-13.php"><img src="img/2019-03-13/0.jpg"> </a>
@@ -2666,7 +2665,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-03-06.php"><img src="img/2019-03-06/0.jpg"> </a>
@@ -2686,7 +2685,7 @@ include "menu_right.php";
  -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-03-05.php"><img src="img/2019-03-05/0.jpg"> </a>
@@ -2705,7 +2704,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-03-04.php"><img src="img/2019-03-04/0.jpg"> </a>
@@ -2723,7 +2722,7 @@ include "menu_right.php";
     </div>
 <hr>
  -->
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-03-01.php"><img src="img/2019-03-01/1.jpg"> </a>
@@ -2741,7 +2740,7 @@ include "menu_right.php";
     </div>
 <hr>
  -->
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-02-28-1.php"><img src="img/2019-02-28-1/0.jpg"> </a>
@@ -2760,7 +2759,7 @@ include "menu_right.php";
 <hr>
  -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-02-28.php"><img src="img/2019-02-28/0.jpg"> </a>
@@ -2777,7 +2776,7 @@ include "menu_right.php";
 		</div>
     </div>
 <hr> -->
-<!-- 
+	<!-- 
 <div class="index_block">
 		<div class="index_block_foto">
 
@@ -2796,7 +2795,7 @@ include "menu_right.php";
     </div>
 <hr>
  -->
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-02-27-1.php"><img src="img/2019-02-27-1/0.jpg"></a>
@@ -2814,7 +2813,7 @@ include "menu_right.php";
     </div>
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-02-27.php"><img src="img/2019-02-27/0.jpg"></a>
@@ -2833,7 +2832,7 @@ include "menu_right.php";
 <hr>
  -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-02-26.php"><img src="img/2019-02-26/0.jpg"></a>
@@ -2852,7 +2851,7 @@ include "menu_right.php";
 <hr>
  -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-02-25.php"><img src="img/2019-02-25/0.jpg"></a>
@@ -2869,7 +2868,7 @@ include "menu_right.php";
     </div>
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-02-20.php"><img src="img/2019-02-20/0.jpg"></a>
@@ -2887,7 +2886,7 @@ include "menu_right.php";
 <hr> -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-02-18.php"><img src="img/2019-02-18/0.jpg"></a>
@@ -2905,7 +2904,7 @@ include "menu_right.php";
 <hr>  -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-02-14.php"><img src="img/2019-02-14-1/0.jpg"></a>
@@ -2923,7 +2922,7 @@ include "menu_right.php";
 <hr>  -->
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-02-14.php"><img src="img/2019-02-14/1.jpg"></a>
@@ -2940,7 +2939,7 @@ include "menu_right.php";
     </div>
 <hr> 
  -->
-<!-- 
+	<!-- 
 <div class="index_block">
 		<div class="index_block_foto">
 
@@ -2959,7 +2958,7 @@ include "menu_right.php";
 <hr> 
  -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-02-12.php"><img src="img/2019-02-12/0.jpg"></a>
@@ -2977,7 +2976,7 @@ include "menu_right.php";
 <hr> 
  -->
 
-<!-- 
+	<!-- 
 <div class="index_block">
 		<div class="index_block_foto">
 
@@ -2995,155 +2994,155 @@ include "menu_right.php";
 <hr> 
  -->
 
-<!-- <div class="index_block">
+	<div class="index_block">
 		<div class="index_block_foto">
 
-				<a href="news2019-02-05-2.php"><img src="img/2019-02-05-2/0.jpg"></a>
+			<a href="news2019-02-05-2.php"><img src="img/2019-02-05-2/0.jpg"></a>
 
 		</div>
 		<div class="index_block_text">
-		
-				<p> <span class="data"> <b> 05 Февраля 2019 </b></span>
-				<h1><a href="news2019-02-05-2.php">Граждан будут дополнительно информировать о включении их в списки плательщиков ЖКУ с полным возмещением затрат</a></h1>
-				<h2>В Правительстве принято решение о дополнительном информировании граждан о включении их в списки плательщиков жилищно-коммунальных услуг...</h2>
-		 		 			
+
+			<p> <span class="data"> <b> 05 Февраля 2019 </b></span>
+			<h1><a href="news2019-02-05-2.php">Граждан будут дополнительно информировать о включении их в списки плательщиков ЖКУ с полным возмещением затрат</a></h1>
+			<h2>В Правительстве принято решение о дополнительном информировании граждан о включении их в списки плательщиков жилищно-коммунальных услуг...</h2>
+
 		</div>
-    </div>
-<hr>  -->
+	</div>
+	<hr>
 
 
-<!-- <div class="index_block">
+	<div class="index_block">
 		<div class="index_block_foto">
 
-				<a href="news2019-02-05-1.php"><img src="img/2019-02-05-1/0.jpg"></a>
+			<a href="news2019-02-05-1.php"><img src="img/2019-02-05-1/0.jpg"></a>
 
 		</div>
 		<div class="index_block_text">
-		
-				<p> <span class="data"> <b> 05 Февраля 2019 </b></span>
-				<h1><a href="news2019-02-05-1.php">Оплата ЖКУ в домах и квартирах, принятых по наследству</a></h1>
-				<h2>В вопросах и ответах...</h2>
-		 		 			
-		</div>
-    </div>
-<hr>  -->
 
-<!-- <div class="index_block">
+			<p> <span class="data"> <b> 05 Февраля 2019 </b></span>
+			<h1><a href="news2019-02-05-1.php">Оплата ЖКУ в домах и квартирах, принятых по наследству</a></h1>
+			<h2>В вопросах и ответах...</h2>
+
+		</div>
+	</div>
+	<hr>
+
+	<div class="index_block">
 		<div class="index_block_foto">
 
-				<a href="news2019-02-05.php"><img src="img/2019-02-05/0.jpg"></a>
+			<a href="news2019-02-05.php"><img src="img/2019-02-05/0.jpg"></a>
 
 		</div>
 		<div class="index_block_text">
-		
-				<p> <span class="data"> <b> 05 Февраля 2019 </b></span>
-				<h1><a href="news2019-02-05.php">Профсоюз - Поощрены лучшие дружинники</a></h1>
-				<h2>На протяжении многих лет, на предприятии создана и работает добровольная народная дружина...</h2>
-		 		 			
+
+			<p> <span class="data"> <b> 05 Февраля 2019 </b></span>
+			<h1><a href="news2019-02-05.php">Профсоюз - Поощрены лучшие дружинники</a></h1>
+			<h2>На протяжении многих лет, на предприятии создана и работает добровольная народная дружина...</h2>
+
 		</div>
-    </div>
-<hr> 
- -->
-<!-- <div class="index_block">
+	</div>
+	<hr>
+
+	<div class="index_block">
 		<div class="index_block_foto">
 
-				<a href="news2019-02-04.php"><img src="img/2019-02-04/0.jpg"></a>
+			<a href="news2019-02-04.php"><img src="img/2019-02-04/0.jpg"></a>
 
 		</div>
 		<div class="index_block_text">
-		
-				<p> <span class="data"> <b> 04 Февраля 2019 </b></span>
-				<h1><a href="news2019-02-04.php">Профсоюз - Внеочередной день охраны труда</a></h1>
-				<h2>Внеочередной день охраны труда прошел 29 января в КЖУП «Светочь»...</h2>
-		 		 			
+
+			<p> <span class="data"> <b> 04 Февраля 2019 </b></span>
+			<h1><a href="news2019-02-04.php">Профсоюз - Внеочередной день охраны труда</a></h1>
+			<h2>Внеочередной день охраны труда прошел 29 января в КЖУП «Светочь»...</h2>
+
 		</div>
-    </div>
-<hr>  -->
+	</div>
+	<hr>
 
 
-<!-- <div class="index_block">
+	<div class="index_block">
 		<div class="index_block_foto">
 
-				<a href="news2019-01-31.php"><img src="img/2019-01-31/0.jpg"></a>
+			<a href="news2019-01-31.php"><img src="img/2019-01-31/0.jpg"></a>
 
 		</div>
 		<div class="index_block_text">
-		
-				<p> <span class="data"> <b> 31 Января 2019 </b></span>
-				<h1><a href="news2019-01-31.php">Текущий график капитального ремонта жилищного фонда коммунального жилищного унитарного предприятия «Светочь» на 2019 год</a></h1>
-				<h2></h2>
-		 		 			
+
+			<p> <span class="data"> <b> 31 Января 2019 </b></span>
+			<h1><a href="news2019-01-31.php">Текущий график капитального ремонта жилищного фонда коммунального жилищного унитарного предприятия «Светочь» на 2019 год</a></h1>
+			<h2></h2>
+
 		</div>
-    </div>
-<hr>  -->
+	</div>
+	<hr>
 
 
-<!-- <div class="index_block">
+	<div class="index_block">
 		<div class="index_block_foto">
 
-				<a href="news2019-01-30-1.php"><img src="img/2019-01-30-1/0.jpg"></a>
+			<a href="news2019-01-30-1.php"><img src="img/2019-01-30-1/0.jpg"></a>
 
 		</div>
 		<div class="index_block_text">
-		
-				<p> <span class="data"> <b> 30 Января 2019 </b></span>
-				<h1><a href="news2019-01-30-1.php">Профсоюз - Стартовала ХХ зимняя спартакиада</a></h1>
-				<h2>Традиционно последние выходные января физкультурно-спортивный комплекс «Коммунальник» КЖУП «Светочь»... </h2>
-		 		 			
-		</div>
-    </div>
-<hr> -->
 
-<!-- <div class="index_block">
+			<p> <span class="data"> <b> 30 Января 2019 </b></span>
+			<h1><a href="news2019-01-30-1.php">Профсоюз - Стартовала ХХ зимняя спартакиада</a></h1>
+			<h2>Традиционно последние выходные января физкультурно-спортивный комплекс «Коммунальник» КЖУП «Светочь»... </h2>
+
+		</div>
+	</div>
+	<hr>
+
+	<div class="index_block">
 		<div class="index_block_foto">
 
-				<a href="news2019-01-30.php"><img src="img/2019-01-30/0.jpg"></a>
+			<a href="news2019-01-30.php"><img src="img/2019-01-30/0.jpg"></a>
 
 		</div>
 		<div class="index_block_text">
-		
-				<p> <span class="data"> <b> 30 Января 2019 </b></span>
-				<h1><a href="news2019-01-30.php">Вопросы к юристу</a></h1>
-				<h2>Усё, што вы хацелі спытаць аб жыллёвым заканадаўстве... </h2>
-		 		 			
-		</div>
-    </div>
-<hr> -->
 
-<!-- <div class="index_block">
+			<p> <span class="data"> <b> 30 Января 2019 </b></span>
+			<h1><a href="news2019-01-30.php">Вопросы к юристу</a></h1>
+			<h2>Усё, што вы хацелі спытаць аб жыллёвым заканадаўстве... </h2>
+
+		</div>
+	</div>
+	<hr>
+
+	<div class="index_block">
 		<div class="index_block_foto">
 
-				<a href="news2019-01-29-1.php"><img src="img/2019-01-29-1/1.jpg"></a>
+			<a href="news2019-01-29-1.php"><img src="img/2019-01-29-1/1.jpg"></a>
 
 		</div>
 		<div class="index_block_text">
-		
-				<p> <span class="data"> <b> 29 Января 2019 </b></span>
-				<h1><a href="news2019-01-29-1.php">ИЗМЕНИЛСЯ ПОРЯДОК ПЛАНИРОВАНИЯ И ФИНАНСИРОВАНИЯ КАПРЕМОНТА ЖИЛИЩНОГО ФОНДА</a></h1>
-				<h2>Правительство внесло коррективы в порядок планирования, проведения и финансирования капитального ремонта жилищного фонда... </h2>
-		 		 			
-		</div>
-    </div>
-<hr> -->
 
-<!-- <div class="index_block">
+			<p> <span class="data"> <b> 29 Января 2019 </b></span>
+			<h1><a href="news2019-01-29-1.php">ИЗМЕНИЛСЯ ПОРЯДОК ПЛАНИРОВАНИЯ И ФИНАНСИРОВАНИЯ КАПРЕМОНТА ЖИЛИЩНОГО ФОНДА</a></h1>
+			<h2>Правительство внесло коррективы в порядок планирования, проведения и финансирования капитального ремонта жилищного фонда... </h2>
+
+		</div>
+	</div>
+	<hr>
+
+	<div class="index_block">
 		<div class="index_block_foto">
 
-				<a href="news2019-01-29.php"><img src="img/2018-08-30-1/1.jpg"></a>
+			<a href="news2019-01-29.php"><img src="img/2018-08-30-1/1.jpg"></a>
 
 		</div>
 		<div class="index_block_text">
-		
-				<p> <span class="data"> <b> 29 Января 2019 </b></span>
-				<h1><a href="news2019-01-29.php">Информгруппа КЖУП "Светочь"</a></h1>
-				<h2>24.01.2019, состоялась встреча генерального директора КЖУП «Светочь» Лупея Валерия Владимировича с... </h2>
-		 		 			
+
+			<p> <span class="data"> <b> 29 Января 2019 </b></span>
+			<h1><a href="news2019-01-29.php">Информгруппа КЖУП "Светочь"</a></h1>
+			<h2>24.01.2019, состоялась встреча генерального директора КЖУП «Светочь» Лупея Валерия Владимировича с... </h2>
+
 		</div>
-    </div>
-<hr> -->
+	</div>
+	<hr>
 
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-01-24.php"><img src="img/2019-01-24/0.jpg"></a>
@@ -3160,7 +3159,7 @@ include "menu_right.php";
 <hr> 
  -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2019-01-16.php"><img src="img/2019-01-16/1.jpg"></a>
@@ -3176,7 +3175,7 @@ include "menu_right.php";
     </div>
 <hr> -->
 
-<!-- <div class="index_block">
+	<!-- <div class="index_block">
 		<div class="index_block_foto">
 
 				<a href="news2018-12-29.php"><img src="img/2018-12-29/0.jpg"></a>
@@ -3198,7 +3197,7 @@ include "menu_right.php";
 
 </div>
 
-<div class="news_block_foto"> 
+<div class="news_block_foto">
 
 
 
@@ -3207,14 +3206,8 @@ include "menu_right.php";
 
 <?php
 include "footer_top.php";
-?> 
+?>
 
 <?php
 include "footer.php";
-?> 
-
-
-
-
-
-
+?>

@@ -1,5 +1,7 @@
 <div class="eye">
-<a id="specialButton" href="#"><img src="https://lidrekon.ru/images/special.png" alt="ВЕРСИЯ ДЛЯ СЛАБОВИДЯЩИХ" title="ВЕРСИЯ ДЛЯ СЛАБОВИДЯЩИХ" /></a>
+  <a id="specialButton" href="#">
+    <img src="src/img/icon/eye.png" alt="ВЕРСИЯ ДЛЯ СЛАБОВИДЯЩИХ" title="ВЕРСИЯ ДЛЯ СЛАБОВИДЯЩИХ" />
+  </a>
 </div>
 
 <div class="language">
@@ -28,9 +30,8 @@
 </div>
 <div id="google_translate_element2"></div>
 
-<!-- <img src="https://lidrekon.ru/images/special.png" -->
 <div class="header">
-    <img src="img/header.jpg" height="250" width="960">
+    <img src="src/img/title.jpg" height="250" width="960">
     <div class="header_title">
     	<a href="http://svsvetoch.by">
     	    <span class="header_title_text">
