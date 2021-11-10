@@ -1,14 +1,5 @@
 $(document).ready(function() {
-
-	$(".item").magnificPopup({
-		type : 'image',
-		gallery : {
-			enabled : true
-		},
-		removalDelay: 300,
-		mainClass: 'mfp-fade'
-	});
-
+	
 	//Цели для Яндекс.Метрики и Google Analytics
 	$(".count_element").on("click", (function() {
 		ga("send", "event", "goal", "goal");
