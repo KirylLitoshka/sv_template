@@ -1,0 +1,79 @@
+@font-face {
+	font-family: "MarckScriptRegular";
+	src: url("../fonts/MarckScriptRegular/MarckScriptRegular.eot");
+	src: url("../fonts/MarckScriptRegular/MarckScriptRegular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/MarckScriptRegular/MarckScriptRegular.woff") format("woff"),
+			 url("../fonts/MarckScriptRegular/MarckScriptRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+@font-face {
+	font-family: "NautilusPompiliusRegular";
+	src: url("../fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.eot");
+	src: url("../fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.woff") format("woff"),
+			 url("../fonts/NautilusPompiliusRegular/NautilusPompiliusRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "TorhokItalic";
+	src: url("../fonts/TorhokItalic/NautilusPompiliusRegular.eot");
+	src: url("../fonts/TorhokItalic/NautilusPompiliusRegular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/TorhokItalic/NautilusPompiliusRegular.woff") format("woff"),
+			 url("../fonts/TorhokItalic/NautilusPompiliusRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "ForumRegular";
+	src: url("../fonts/ForumRegular/ForumRegular.eot");
+	src: url("../fonts/ForumRegular/ForumRegular.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/ForumRegular/ForumRegular.woff") format("woff"),
+			 url("../fonts/ForumRegular/ForumRegular.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "FlowBold";
+	src: url("../fonts/FlowBold/FlowBold.eot");
+	src: url("../fonts/FlowBold/FlowBold.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/FlowBold/FlowBold.woff") format("woff"),
+			 url("../fonts/FlowBold/FlowBold.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "CleanvertisingBlack";
+	src: url("../fonts/CleanvertisingBlack/CleanvertisingBlack.eot");
+	src: url("../fonts/CleanvertisingBlack/CleanvertisingBlack.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/CleanvertisingBlack/CleanvertisingBlack.woff") format("woff"),
+			 url("../fonts/CleanvertisingBlack/CleanvertisingBlack.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: "CleanvertisingLight";
+	src: url("../fonts/CleanvertisingLight/CleanvertisingLight.eot");
+	src: url("../fonts/CleanvertisingLight/CleanvertisingLight.eot?#iefix") format("embedded-opentype"),
+			 url("../fonts/CleanvertisingLight/CleanvertisingLight.woff") format("woff"),
+			 url("../fonts/CleanvertisingLight/CleanvertisingLight.ttf") format("truetype");
+	font-style: normal;
+	font-weight: normal;
+}
+
+
+
+
+
+
+
+
+

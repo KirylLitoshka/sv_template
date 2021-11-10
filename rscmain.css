@@ -1,0 +1,200 @@
+
+@media screen and (max-width: 400px) {
+
+html {
+	
+	height: 1200px;
+	width: 100%;
+	background: #fff;
+}
+
+
+body {
+    
+    width: 360px;
+    height: 1500px;
+	margin: 0px auto;
+	background: #68af66;
+	/*overflow-x:hidden;  /*для горизонтального*/
+}
+
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 360px;
+    /*grid-template-rows: 100% 100% 100%;*/
+}
+
+
+.text{
+
+   text-align: justify;
+   margin: 5px 10px 5px 0px;
+}
+
+.text-a{
+
+   /*text-align: justify;*/
+   margin: 20px 10px 10px 10px;
+   
+}
+
+.text-z {
+
+   text-align: justify;
+   margin: 0px 10px 0px 10px;
+}
+
+
+p {
+	text-align: justify;
+   margin: 0px 0px 0px 0px;
+   font-size: 18px; /* Размер шрифта в процентах */ 
+
+}
+
+
+hr {
+	width: 320px;
+	}
+
+a { text-decoration: none; /*Убираем подчеркивание у ссылок*/ 
+	color: #2f1012;  /*Цвет ссылок*/   
+}
+
+
+
+form {
+	 margin: 0px 10px 0px 25px;
+
+}
+
+
+table, th, td {
+ 
+ border: 1px solid black;
+ border-color: #222;
+ padding: 0px;
+ 
+} 
+
+input {
+
+padding: 0px 0px 0px 0px;
+border-radius: 3px;
+height: 30px;
+border: 0px;
+background: #eff3f0;
+width: 300px;
+font-size: 20px;
+}
+
+textarea {
+
+	border: 0px;
+	height: 100px;
+	
+}
+}
+
+@media screen and (min-width: 401px) { 
+
+
+html {
+	height: 100%;
+	width: 100%;
+	background: #fff;
+}
+
+
+body {
+    
+    width: 700px;
+	margin: 0px auto;
+	background: #68af66;
+	/*overflow-x:hidden;  /*для горизонтального*/
+}
+
+
+.wrapper {
+    display: grid;
+    grid-template-columns: 700px;
+    grid-template-rows: 340px  130px  500px;
+}
+
+
+
+
+
+.text{
+
+text-align: justify;
+   margin: 5px 10px 5px 0px;
+
+}
+
+.text-a{
+
+   width: 660px;
+   /*text-align: justify;*/
+   margin: 50px 10px 10px 10px;
+}
+
+.text-z {
+
+   width: 660px;
+   /*text-align: justify;*/
+   margin: 0px 10px 0px 10px;
+}
+
+
+
+hr {
+	width: 320px;
+	}
+
+a { text-decoration: none; /*Убираем подчеркивание у ссылок*/ 
+	color: #2f1012;  /*Цвет ссылок*/   
+}
+
+p {
+	text-align: justify;
+   margin: 0px 0px 0px 10px;
+   font-size: 18px; /* Размер шрифта в процентах */ 
+
+}
+
+form {
+	 margin: 0px 10px 0px 50px;
+
+}
+
+
+table, th, td {
+ 
+ border: 1px solid black;
+ border-color: #222;
+ padding: 0px;
+ 
+} 
+
+input {
+
+padding: 0px 0px 0px 0px;
+border-radius: 3px;
+height: 30px;
+border: 0px;
+background: #eff3f0;
+width: 600px;
+ font-size: 18px; /* Размер шрифта в процентах */  
+}
+
+textarea {
+
+	border: 0px;
+	height: 100px;
+	
+}
+
+
+}
