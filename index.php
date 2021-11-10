@@ -1,9 +1,11 @@
 <?php include "base.php" ?>
 
 <?php startblock("content") ?>
-	<?php include "posts.php" ?>
+<div class="index">
+	<?php include "_posts_list.php" ?>
+</div>
 <?php endblock() ?>
 
 <?php startblock("sidebar") ?>
-	<?php include "includes/menu_right.php" ?>
+<?php include "includes/menu_right.php" ?>
 <?php endblock() ?>
