@@ -5,7 +5,7 @@
         </a>
     </div>
     <div class="menu-block">
-        <a href="novosti.php">
+        <a href="news.php">
             <span class="menu_h2">Новости</span>
         </a>
     </div>
